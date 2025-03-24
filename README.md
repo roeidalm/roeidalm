@@ -6,6 +6,7 @@
 ---
 
 🌐 **About Me**  
+
 🔧 **Senior DevOps Engineer with a security focus**, specializing in building **scalable** and **automated cloud infrastructure** using **IaC**, **Kubernetes**, **CI/CD**, and **observability**.  
 ⚙️ Focused on **automation**, **observability**, and **developer productivity**.  
 🛠️ I love scripting, infrastructure, and solving challenges in self-hosted environments.  

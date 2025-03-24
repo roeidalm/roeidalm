@@ -6,9 +6,10 @@
 ---
 
 🌐 **About Me**  
-🔐 DevSecOps Engineer passionate about building **secure**, **scalable**, and **cloud-native platforms**.  
+🔧 **Senior DevOps Engineer with a security focus**, specializing in building **scalable** and **automated cloud infrastructure** using **IaC**, **Kubernetes**, **CI/CD**, and **observability**.  
 ⚙️ Focused on **automation**, **observability**, and **developer productivity**.  
 🛠️ I love scripting, infrastructure, and solving challenges in self-hosted environments.  
+
 
 💼 [LinkedIn](https://www.linkedin.com/in/roei-dalmedigos/)  
 💻 [GitHub](https://github.com/roeidalm)

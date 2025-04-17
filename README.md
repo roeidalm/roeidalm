@@ -13,7 +13,6 @@
 
 
 💼 [LinkedIn](https://www.linkedin.com/in/roei-dalmedigos/)  
-💻 [GitHub](https://github.com/roeidalm)
 
 ---
 
